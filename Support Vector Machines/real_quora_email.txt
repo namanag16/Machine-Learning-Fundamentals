@@ -1,0 +1,80 @@
+Answer: First let me be clear where I’m coming from: I like Lisp macros a lot.​.​.​
+Quora
+Stories from your activity
+Considering that Lisp had macros in 1963, what is the excuse for "modern" languages not having macros in 2016?
+Bob Kerns
+Bob Kerns, Programmer and language developer for 48 years
+Written Jul 6, 2016
+First let me be clear where I’m coming from: I like Lisp macros a lot. In fact, 24 years ago next month, I met my wife teaching a class on Lisp macros.
+
+But I want to dispel ...
+
+ Read More »
+What are exactly macros in Microsoft Excel?
+Jeffie John
+Jeffie John, loves macros, written quite a lot of them!
+Written Jan 9, 2017
+Macro is program or a code which resides within the Excel file, which can be used to automate a lot of tasks in Excel. Even though macros are mainly associated with Microso...
+
+ Read More »
+What is Python, and what is its use?
+Anirudh Sharma
+Anirudh Sharma, Exploring Data Science
+Written Apr 10
+Python is a high level, dynamically typed, object-oriented programming language.
+
+A high-level language is one with a much more user-friendly syntax. Instructions in high-lev...
+
+ Read More »
+What are Lisp Macros?
+Jerry Jackson
+Jerry Jackson, Developed Prolog compiler in CommonLisp for Harlequin Ltd.
+Written May 3, 2017
+I think people find it confusing when they hear all sorts of wonderful things about Lisp macros. Most programmers have some experience with macros, either in an application...
+
+ Read More »
+How can people who don't have Python installed run Python programs?
+Tony Flury
+Tony Flury, Python s/w developer since 2011 - published since 2015
+Written May 25, 2017
+They don’t.
+
+The only way (in theory) that it might work is if the Python program is bundled with py2exe (FrontPage - py2exe-org) which bundles a Python program into a window...
+
+ Read More »
+Why is SQL in such high demand when I can use Excel and do half of the work, and never have to enter code again? I can literally write a macro and have a button.
+Al Klein
+Al Klein, 46 years of hardware and software development - retired
+Written Oct 9, 2017
+First, a macro is code. It’s not PHP or Java, it’s VBA, but VBA is a programming language, and a macro is code.
+
+(And you can use Access to Generate the SQL queries you need ...
+
+ Read More »
+How are Python lists implemented internally?
+Adrien Lucas Ecoffet
+Adrien Lucas Ecoffet, MS Computer Science, Georgia Institute of Technology (2018)
+Updated Nov 6, 2015
+Contrary to what their name implies, Python lists are actually arrays, a fact that never ceases to annoy me (I don't like misleading names). Specifically, they are dynamic ... Read More »
+How does Python work with types?
+R. Drew Davis
+R. Drew Davis, I've become a big fan of Python for getting things done.
+Written Oct 16, 2016
+The key thing to know about Python types is that every value in Python has a well-defined type, but variables are just names for values. if you assign an integer value to a...
+
+ Read More »
+How do functions work in Python?
+Arpan Murmu
+Arpan Murmu, works at Student Only
+Written Nov 1, 2017
+
+Writing user-defined functions in Python. ... Step 1: Declare the function with the keyword def followed by the function name. Step 2: Write the arguments inside the openin...
+
+ Read More »
+Which is better, PHP or Python? Why?
+Andrey Grygoryev
+Andrey Grygoryev, Python fan
+Written May 20, 2012
+I'm working with a PHP few years and was very sad because PHP was my every day pain. After I moved from PHP to Python more that 2 years ago I can say what do I think about ... Read More »
+ 
+Search More on Quora

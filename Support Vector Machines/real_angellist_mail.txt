@@ -1,0 +1,38 @@
+AngelList
+View Online
+YCombinator
+Another year, another YCombinator Demo Day in the books.
+
+While there were plenty of interesting startups in this year’s batch, it was a few market-level trends that got our attention.
+
+1. Biotechnology is the hot industry now.
+
+Maybe unsurprising given YCombinator’s recent essay on the future of biotech funding, but there were a ton of biotech companies in this year’s batch. Asher Biotherapeutics is producing new immunotherapies, GEn1E Lifesciences is focused on inflammatory diseases, Encellin is developing cell transplant technology to fight chronic diseases like diabetes, Rejuvenation Technologies is manipulating telomeres to reverse aging, and Kern Systems is building a new digital infrastructure that uses DNA as its storage medium—and these are just a handful of the biotech companies that presented.
+
+2. Fixing the cost of education is a top priority.
+
+There were a number of startups this year focused on education, and specifically, on providing education in ways students can more realistically afford. Income-share agreements, where students pay a percentage of their salary after completing their education, were very popular. Juno College of Technology is a bootcamp that offers this model. Microverse has a similar bootcamp-to-income-share model, but is fully remote. Blair applies the concept of an income share agreement to traditional university degrees, paying tuition for students upfront, but receiving a portion of their future income.
+
+3. Software is big business in developing countries.
+
+A large swath of YC companies in this year’s batch focused on developing countries. Vailu and Coco Mercado replicate PayPal/Transferwise functionality for Latin America, allowing users in countries that are notoriously difficult to get money in and out of (think Venezuela) to transfer it easily. GreenTiger is Robinhood for India. Breadfast, a company already doing $180,000 in monthly revenue, is a subscription service that delivers milk, eggs, and bread in Egypt.
+
+Something to note about these markets is that the first two are not pure software plays, which is interesting, given the historical prevalence of software startups in YCombinator batches. The biotechnology and education markets have different regulatory hurdles and unit economics than traditional software companies—scaling a new education model or gene therapy is fundamentally different from scaling a SaaS platform, after all.
+
+It’s exciting to see YCombinator branching out into these markets. If you’re a job seeker looking for a hot new industry to get involved, try searching for jobs in biotech or education on AngelList. [Image: YCombinator]
+30 startups willing to pay engineers $200,000
+engineering
+There’s a common misconception about startups: If you accept one of their job offers, you’ll also have to accept an extreme pay cut, often in exchange for equity. And while it's true that most startups can't offer comp packages that rival the Googles of the world, it isn't true that joining a startup means skimping by on a low salary.
+
+We've put together a collection of startups with open roles for software engineers—all with salary ranges that hit $200,000 or more.
+Explore now
+We're changing the way you explore startups 🔥
+Ever wish you could get a tour of Square’s office, or see how Amazon celebrates Pride? Now, you can.
+ 
+We've completely rebuilt how company profiles work on AngelList. You have faster ways to learn about a startup's founder, track the company's funding history, discover the perks it offers to teammates, and dive into the culture that makes it unique. Start exploring now.
+	Square - Helping businesses grow by making commerce easier. Hiring a Senior Software Engineer (Tech Lead) and 2 more.
+	Chime - Bringing banking to the next level with no hidden fees and automatically growing savings. Hiring a Principal Product Designer and 37 more.
+	VSCO - Better video and photo editing tools to connect a creative community. Hiring a Director, Product Marketing and 21 more.
+	ThirdEye - Augmenting security through AI-powered surveillance. Hiring a Machine Learning Engineer and 4 more.
+	IMDB - The go-to place for information about entertainment, movies, TV, and celebrities. Hiring a Senior Software Development Engineer and 5 more.
+	Amazon Music - Delivering over 50 million songs to customers in new and exciting ways. Hiring a Sr. Product Manager and 8 more.

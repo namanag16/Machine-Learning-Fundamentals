@@ -102,11 +102,16 @@ for i=1:m
 	z3 = Theta2 * [ones(1, size(a2,2));a2] ; ## 10*26 x 26*m = 10*m;
 	a3 = sigmoid(z3);
 	
-	del3 = a3 - ynew(i,:)';     % 10*1
+	% del3==dz2 in DL C1W3 (Planar_data_classification_with_onehidden_layer_v6c ) = def backward_propagation(parameters, cache, X, Y)
+	% del2==dZ1
+	% batch processing done instead of individual egs in DL to save time
+	del3 = a3 - ynew(i,:)';     								% 10*1							
 	del2 = (Theta2'*del3)(2:end,:) .* sigmoidGradient(z2);		% 25*1
 	
-	Del{1} = Del{1} + del2 * a1;   						% 25*401 | included bias term when doing del
-	Del{2} = Del{2} + del3 * [ones(1, size(a2,2));a2]';									% 10*26
+	% Del1=dW1 in DL C1W3 (Planar_data_classification_with_onehidden_layer_v6c ) = def backward_propagation(parameters, cache, X, Y)
+	% Del2=dW2
+	Del{1} = Del{1} + del2 * a1;   								% 25*401 | included bias term when doing del
+	Del{2} = Del{2} + del3 * [ones(1, size(a2,2));a2]';			% 10*26
 	
 	% Theta1 = Theta1 + del2 * a1;
 	% Theta2 = Theta2 + del3 * [ones(1, size(a2,2));a2]';
